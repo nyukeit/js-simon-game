@@ -16,5 +16,5 @@ This game is really good
 
 1. If you want to work your memory
 2. If you have no friends and want to feel bad about yourself
-3. Killing time
+3. For killing time and your personality
 4. I will come up with something at number 4 later
