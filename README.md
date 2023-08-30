@@ -4,7 +4,7 @@
 
 Test your IQ level by following a sequence. Beware: This is THE real IQ test.
 
-Follow the tiles and prove you have a big brain (or just memory). There are no prizes, just the satisfaction that you can think and remember.
+Follow the tiles and prove you have a big brain (or just memory). There are no prizes, just the (dis)satisfaction that you can(not) think and remember.
 
 ## How to Play
 
