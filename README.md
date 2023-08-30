@@ -1,4 +1,7 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/06a74b1d-2261-4c42-a676-85ff55b0cd63/deploy-status)](https://app.netlify.com/sites/gilded-kataifi-a4b841/deploys)
+
 # JavaScript Simon 🟥🟨🟩🟦
+
 Test your IQ level by following a sequence. Beware: This is THE real IQ test.
 
 Follow the tiles and prove you have a big brain (or just memory). There are no prizes, just the satisfaction that you can think and remember.
